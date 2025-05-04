@@ -2,7 +2,7 @@
 
 <h1>Hi! 👋 I'm Brian</h1>
 
-<h3 style="margin-bottom:1rem;">I am a full stack and platform engineer.</h3>
+<h3 style="margin-bottom:1rem;">I am building an open-source software ecosystem at <a href="https://github.com/omnidotdev" target="_blank" rel="noopener noreferrer">Omni</a>.</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=coopbri&theme=cobalt" />
 
